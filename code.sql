@@ -1,1 +1,1 @@
-select current_date();
+create database demo_db;
