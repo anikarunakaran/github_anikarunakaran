@@ -1,1 +1,1 @@
-create database demo_db;
+create database sample_db;
