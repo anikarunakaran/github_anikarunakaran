@@ -1,9 +1,9 @@
 name: SnowSQL
 env:
   SNOWSQL_DEST: ~/snowflake
-  SNOWSQL_ACCOUNT: xxxxx
+  SNOWSQL_ACCOUNT: kg94808.east-us-2.azure
   SNOWSQL_USER: admin
-  SNOWSQL_PWD: xxxx
+  SNOWSQL_PWD: Onam@2020
   
 on: push                                                  
 jobs:                         
