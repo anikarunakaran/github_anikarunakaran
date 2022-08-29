@@ -1,3 +1,2 @@
-create database sample_db1;
-
-create schema sample_db.automation1;
+create database sai_db;
+create schema sai_db.automation1;
